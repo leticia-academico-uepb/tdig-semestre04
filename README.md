@@ -23,7 +23,20 @@
   <br>
 
   <div align="center">
-  <img src="assets/cat-photo-app.jpeg" alt="Página Cat Photo App Completa" width="400px">
+  <img src="assets/cat-photo-app.jpeg" alt="Página Cat Photo App Completa" width="250px">
+  </div>
+
+</details>
+
+</br>
+
+<details>
+  <summary>Imagem - Cat Photo</summary>
+
+  <br>
+
+  <div align="center">
+  <img src="assets/cafe-menu.png" alt="Página Cafe Menu Completa" width="250px">
   </div>
 
 </details>
