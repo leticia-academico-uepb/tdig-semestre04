@@ -17,26 +17,26 @@
   </p>
 </div>
 
-<details>
-  <summary>Imagem - Cat Photo</summary>
+### [Exercício 01](exercicio_01)
 
-  <br>
+- HTML: App de Fotos de Gato
+- HTML: Formulário de Registro
 
-  <div align="center">
-  <img src="assets/cat-photo-app.jpeg" alt="Página Cat Photo App Completa" width="250px">
-  </div>
+- CSS: Menu de Café
+- CSS: Marcadores Coloridos
 
-</details>
+### [Exercício 02](exercicio_02)
 
-</br>
+- Acessibilidade: Questionário
+- CSS Flexbox: Galeria de Fotos
+- Box Model: Pintura de Rothko
+- Tipografia: Rótulo Nutrional
 
-<details>
-  <summary>Imagem - Cat Photo</summary>
+### [Exercício 03](exercicio_03)
 
-  <br>
+- Pseudosseletores de CSS: Folha de Saldo
+- Design Responsivo: Piano
 
-  <div align="center">
-  <img src="assets/cafe-menu.png" alt="Página Cafe Menu Completa" width="250px">
-  </div>
+### [Exercício 06](exercicio_06)
 
-</details>
+- React: Formulário
